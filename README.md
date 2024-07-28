@@ -15,7 +15,6 @@ Si vous suivez ce tutoriel, vous obtiendrez une nouvelle application React - hé
 Ce tutoriel a été traduit de l'anglais original vers les langues suivantes:
 - [Chinois traditionnel](https://github.com/gitname/react-gh-pages/issues/167#issuecomment-1925551338) (crédit: [@creaper9487](https://github.com/creaper9487))
 - [Français](https://github.com/soualahmohammedzakaria/react-gh-pages/blob/master/README.md) (crédit: [@soualahmohammedzakaria](https://github.com/soualahmohammedzakaria))
-- [Arabe](https://github.com/soualahmohammedzakaria/react-gh-pages/blob/master/READMEARABIC.md) (crédit: [@soualahmohammedzakaria](https://github.com/soualahmohammedzakaria))
 
 # Tutoriel
 
